@@ -9,7 +9,7 @@ Group yourselves into three and using Flutter, create an animated login screen u
 
 **Login Screen Specifications:**
 
-- Database is not required, a user can login using the given hard coded values: ``email: cictapps@wvsu.edu.ph`` ``pass:1234``
+- Database is not required, a user can login using the given hard coded values: ``email: bsit@isatu.edu.ph`` ``pass:1234``
 - You are free what animations or illustrations you can add. Be creative!
 - The user will then be redirected to a Home Screen after successfully logging in. You are free to add contents to your home screen or leave it blank with an Appbar.
 - Any app theme can be used.
